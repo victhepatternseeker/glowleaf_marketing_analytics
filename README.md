@@ -251,5 +251,5 @@ This project was conceived, developed, and executed by **Vignesh Ramachandran** 
 For questions or further analysis, please contact:
 - **Vignesh Ramachandran**
 - Email: victhepatternseeker@outlook.com
-- LinkedIn: linkedin.com/in/vignesh-ramachandran
+- LinkedIn: www.linkedin.com/in/vignesh-strategist-data-analyst
 - GitHub: github.com/victhepatternseeker
